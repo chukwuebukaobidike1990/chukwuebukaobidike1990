@@ -44,19 +44,15 @@ With 8+ years of professional experience in high-responsibility environments, I 
 
 ## 🛠️ Technical Skills
 
-### Networking
-- TCP/IP
-- Subnetting
-- VLANs
-- Routing & Switching
-- Network Troubleshooting
+### 🌐 Networking
+- [Subnetting Lab](https://github.com/chukwuebukaobidike1990/subnetting-lab)
+- [VLAN Segmentation Project](https://github.com/chukwuebukaobidike1990/vlan-lab)
+- [Routing Simulation](https://github.com/chukwuebukaobidike1990/routing-lab)
 
-### Cyber Security
-- Log Analysis
-- SIEM Basics
-- Incident Response Lifecycle
-- Threat Detection
-- MITRE ATT&CK Mapping
+### 🛡️ Cyber Security
+- [Incident Response Simulation](https://github.com/chukwuebukaobidike1990/incident-response-simulation-1)
+- [Wireshark Packet Analysis](https://github.com/chukwuebukaobidike1990/wireshark-lab)
+- [Firewall Configuration Lab](https://github.com/chukwuebukaobidike1990/firewall-lab)
 
 ### Tools
 - Wireshark
