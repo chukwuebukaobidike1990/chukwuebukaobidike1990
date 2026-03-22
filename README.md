@@ -1,3 +1,12 @@
+<h1 align="center">🔐 Chukwuebuka Obidike</h1>
+<h3 align="center">SOC Analyst | Network Engineer | Cyber Security Portfolio</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-blue" />
+  <img src="https://img.shields.io/badge/Path-SOC%20%26%20Network%20Engineering-green" />
+  <img src="https://img.shields.io/badge/Status-Active%20Learning-orange" />
+</p>
+
 # 🔐 Chukwuebuka Obidike  
 ### Cyber Security | SOC Analyst | Network Engineering
 
